@@ -58,28 +58,28 @@ To install and play the game, ensure you have **Python** installed and follow th
 ## File Structure
 The main files in this repository are:
 
-- main.py: The entry point to the game, containing the game loop and control structure.
-- settings.py: Handles all the game settings like screen size, speed adjustments, and colors.
-- ship.py: Contains the ship (player) class for movement and collision detection.
-- alien.py: Manages alien behavior, movement, and collisions.
-- bullet.py: Handles bullet behavior and interactions.
-- game_functions.py: Manages game events, updates, and interactions between objects.
-- scoreboard.py: Displays the player's score, level, and remaining ships.
-- game_stats.py: Tracks game statistics such as score and levels.
-- button.py: Manages button creation and drawing for the game interface.
-- littleShip.py: Handles the player's ship, including its image and rectangle for positioning.
+- **main.py**: The entry point to the game, containing the game loop and control structure.
+- **settings.py**: Handles all the game settings like screen size, speed adjustments, and colors.
+- **ship.py**: Contains the ship (player) class for movement and collision detection.
+- **alien.py**: Manages alien behavior, movement, and collisions.
+- **bullet.py**: Handles bullet behavior and interactions.
+- **game_functions.py**: Manages game events, updates, and interactions between objects.
+- **scoreboard.py**: Displays the player's score, level, and remaining ships.
+- **game_stats.py**: Tracks game statistics such as score and levels.
+- **button.py**: Manages button creation and drawing for the game interface.
+- **littleShip.py**: Handles the player's ship, including its image and rectangle for positioning.
 
 ## Technologies Used
 
-- Python: Core programming language.
-- Pygame: Library used for handling graphics, input, and game mechanics.
+- **Python**: Core programming language.
+- **Pygame**: Library used for handling graphics, input, and game mechanics.
 
 ## Future Improvements
 Some planned future features include:
 
-- Power-ups: Add power-ups like shields or multi-shot capabilities.
-- New enemy types: Introduce more challenging enemies with different abilities.
-- Multiplayer mode: Enable two-player mode with split screen or network play.
+- **Power-ups**: Add power-ups like shields or multi-shot capabilities.
+- **New enemy types**: Introduce more challenging enemies with different abilities.
+- **Multiplayer mode**: Enable two-player mode with split screen or network play.
 
 ## Credits
 This project was built by **Ahmad Randhawa** as a part of his journey to 
