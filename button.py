@@ -26,6 +26,3 @@ class Button:
     def draw_button(self):
         self.screen.fill(self.bg_color, self.rect)  # draw button's background
         self.screen.blit(self.msg_image, self.msg_image_rect)
-
-# Start understanding the whole class from draw_button().
-# With antialiasing (True): The edges of the characters are smoother and more natural-looking.

@@ -9,7 +9,7 @@ class Alien(Sprite):
         self.screen = screen
         self.screen_rect = self.screen.get_rect()
 
-        self.image = pygame.image.load("Alien-Invasion-Game/alien.png")
+        self.image = pygame.image.load("alien.png")
         self.rect = self.image.get_rect()
 
         self.x = float(self.rect.x)

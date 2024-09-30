@@ -50,11 +50,3 @@ class Ship():
         self.centerx = float(self.rect.centerx)
         self.centery = float(self.rect.centery)
 
-# In update(), you('re gradually changing the ship’s position, so it’s important to use floats for smooth movement,
-# then convert to integers for rendering.)
-
-# In center_ship(), you're instantly snapping the ship to a fixed, exact location, so working with integers initially
-# makes sense. Once the ship is centered, converting to floats ensures future movement remains smooth.
-
-# Without converting if small value like 0.4 is given it shows no movements bcz its round of to 0
-# Note: Value is display in integer

@@ -7,7 +7,7 @@ class Settings:
         self.screen_height = 680
         self.bg_color = 54, 69, 79
         self.game_name = "Alien Invasion"
-        self.game_icon = pygame.image.load("Alien-Invasion-Game/icon.png")
+        self.game_icon = pygame.image.load("icon.png")
 
         # Ship settings
         self.ship_limit = 3
