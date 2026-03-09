@@ -82,7 +82,7 @@ Some planned future features include:
 - **Multiplayer mode**: Enable two-player mode with split screen or network play.
 
 ## Credits
-This project was built by **Ahmad Randhawa** as a part of his journey to 
+This project was built by **Ahmad Hussain** as a part of his journey to 
 mastering game development with Python. <br>
 Special thanks to the developers
 of **Pygame** and the book **Python Crash Course** by **Eric Matthes** for inspiration.
