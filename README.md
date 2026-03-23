@@ -19,6 +19,27 @@ In **Alien Invasion**, players control a spaceship, moving it left, right, up, o
 
 ---
 
+# Project Preview
+
+## Start Game
+
+![Start game](docs/screenshots/start_game.png)
+
+---
+
+## Play Game
+
+![Play game](docs/screenshots/play_game.png)
+
+---
+
+## Start Again
+
+![Start again](docs/screenshots/start_again.png)
+
+---
+
+
 ## Features
 
 - **Dynamic gameplay**: The game's speed increases after each level, making it progressively harder.
