@@ -17,6 +17,8 @@ Welcome to **Alien Invasion**, a simple 2D space shooter game built using **Pyth
 
 In **Alien Invasion**, players control a spaceship, moving it left, right, up, or down while firing bullets to shoot the incoming alien fleet. The game increases in difficulty as the player advances through levels, with aliens moving faster and becoming more challenging to eliminate.
 
+---
+
 ## Features
 
 - **Dynamic gameplay**: The game's speed increases after each level, making it progressively harder.
