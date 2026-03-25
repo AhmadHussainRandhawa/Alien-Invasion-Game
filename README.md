@@ -97,15 +97,25 @@ The main files in this repository are:
 - **Python**: Core programming language.
 - **Pygame**: Library used for handling graphics, input, and game mechanics.
 
-## Future Improvements
-Some planned future features include:
+## Future Plans
 
 - **Power-ups**: Add power-ups like shields or multi-shot capabilities.
 - **New enemy types**: Introduce more challenging enemies with different abilities.
 - **Multiplayer mode**: Enable two-player mode with split screen or network play.
+ 
 
-## Credits
-This project was built by **Ahmad Hussain** as a part of his journey to 
-mastering game development with Python. <br>
-Special thanks to the developers
-of **Pygame** and the book **Python Crash Course** by **Eric Matthes** for inspiration.
+# License
+
+MIT License
+
+---
+
+# Contact 💀 
+
+[<img src="https://img.icons8.com/3d-fluency/30/secured-letter.png" alt="Email" style="vertical-align: middle;"/> official.ahmadrandhawa@gmail.com](mailto:official.ahmadrandhawa@gmail.com)   
+[<img src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" width="26" alt="LinkedIn"/>  LinkedIn Profile](https://www.linkedin.com/in/ahmad-hussain-randhawa/)  
+[<img src="https://icon.icepanel.io/Technology/svg/GitHub.svg" width="26" alt="GitHub"/>  GitHub Profile](https://github.com/AhmadHussainRandhawa)   
+
+---
+
+> *"If you have any questions or want to collaborate on something, feel free to email me (without any hesitation)... I might be a little busy sometimes, but I’ll definitely reply."*
